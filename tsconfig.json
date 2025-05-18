@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",  // Add this to fix module resolution
+    "declaration": true,
+    "outDir": "dist",
+    "strict": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["node"]  // Add this to include NodeJS types globally
+  },
+  "include": ["src"]
+}
