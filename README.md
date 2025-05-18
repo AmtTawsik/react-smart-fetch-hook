@@ -1,4 +1,3 @@
-```markdown
 # react-smart-fetch-hook 🚀
 
 [![npm version](https://img.shields.io/npm/v/react-smart-fetch-hook.svg)](https://www.npmjs.com/package/react-smart-fetch-hook)
